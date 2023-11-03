@@ -22,8 +22,7 @@
             font-size: 2.5rem;
         }
 
-        /* Add styles for the round profile picture */
-        .profile-picture {
+     {
             width: 100px; /* Adjust the size as needed */
             height: 100px;
             border-radius: 75%; /* Create a circular shape */
